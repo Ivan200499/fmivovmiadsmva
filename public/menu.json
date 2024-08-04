@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "name": "Tagliata frutta",
+      "price": 5.00,
+      "category": "Cibo"
+    },
+    {
+      "id": 2,
+      "name": "Acqua bottiglia",
+      "price": 1.50,
+      "category": "Bevande"
+    },
+    {
+      "id": 3,
+      "name": "Bottiglia grande",
+      "price": 2.50,
+      "category": "Bevande"
+    },
+    {
+      "id": 4,
+      "name": "Fresella con pomodorino",
+      "price": 3.50,
+      "category": "Cibo"
+    },
+    {
+      "id": 5,
+      "name": "Coca cola / Pepsi",
+      "price": 2.50,
+      "category": "Bevande"
+    },
+    {
+      "id": 6,
+      "name": "Birra spina",
+      "price": 3.50,
+      "category": "Bevande"
+    },
+    {
+      "id": 7,
+      "name": "Cocktail",
+      "price": 5.00,
+      "category": "Bevande",
+      "options": ["Gin", "Rum"]
+    },
+    {
+      "id": 8,
+      "name": "Pasta fredda",
+      "price": 6.00,
+      "category": "Cibo"
+    },
+    {
+      "id": 9,
+      "name": "Pasta pomodorino fresco",
+      "price": 6.00,
+      "category": "Cibo"
+    },
+    {
+      "id": 10,
+      "name": "Calamarata frutti mare",
+      "price": 13.00,
+      "category": "Cibo"
+    },
+    {
+      "id": 11,
+      "name": "Caffè",
+      "price": 1.00,
+      "category": "Bevande"
+    },
+    {
+      "id": 12,
+      "name": "Falanghina frizzante",
+      "price": 13.00,
+      "category": "Bevande"
+    },
+    {
+      "id": 13,
+      "name": "Moet",
+      "price": 80.00,
+      "category": "Bevande"
+    },
+    {
+      "id": 14,
+      "name": "Cliquot vocque",
+      "price": 60.00,
+      "category": "Bevande"
+    },
+    {
+      "id": 15,
+      "name": "Falanghina Beneventana",
+      "price": 13.00,
+      "category": "Bevande"
+    },
+    {
+      "id": 16,
+      "name": "Frittura calamari e gamberi",
+      "price": 15.00,
+      "category": "Cibo"
+    },
+    {
+      "id": 17,
+      "name": "Tagliata black angus",
+      "price": 8.00,
+      "category": "Cibo",
+      "options": ["et"],
+      "options": ["150g", "200g", "250g"]
+    },
+    {
+      "id": 18,
+      "name": "Pepsi spina",
+      "price": 2.50,
+      "category": "Bevande"
+    },
+    {
+      "id": 19,
+      "name": "Fanta",
+      "price": 2.50,
+      "category": "Bevande"
+    },
+    {
+      "id": 20,
+      "name": "Estate pesca limone",
+      "price": 2.50,
+      "category": "Bevande"
+    },
+    {
+      "id": 21,
+      "name": "Becks, Heineken, Nastro",
+      "price": 3.00,
+      "category": "Bevande"
+    },
+    {
+      "id": 22,
+      "name": "Corona",
+      "price": 3.50,
+      "category": "Bevande"
+    },
+    {
+      "id": 23,
+      "name": "Tennets",
+      "price": 3.50,
+      "category": "Bevande"
+    },
+    {
+      "id": 24,
+      "name": "Gin tonic special",
+      "price": 10.00,
+      "category": "Bevande"
+    },
+    {
+      "id": 25,
+      "name": "Spritz",
+      "price": 5.00,
+      "category": "Bevande"
+    },
+    {
+      "id": 26,
+      "name": "Granita",
+      "price": 3.00,
+      "category": "Bevande"
+    }
+  ]
+  
